@@ -127,9 +127,9 @@ Through this project, the following concepts were learned:
 Possible enhancements include:
 
 - AES Decryption implementation
-- Pipelined AES architecture
+
 - Area and speed optimization
-- Deployment on physical FPGA board
+
 
 ## Conclusion
 This project demonstrates a successful FPGA implementation of AES-128 encryption using Verilog HDL. It provides practical experience in digital design, FPGA workflow, and hardware security systems.
